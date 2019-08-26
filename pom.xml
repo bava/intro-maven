@@ -33,6 +33,12 @@
    </developer>
  </developers>
  
+ <scm>
+      <connection>scm:git:https://github.com/bava/intro-maven.git</connection>
+      <developerConnection>scm:git:https://github.com/bava/intro-maven.git</developerConnection>
+      <url>https://github.com/bava/intro-maven</url>
+    </scm>
+ 
  <distributionManagement>
 
                      <repository>
